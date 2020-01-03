@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-03T01:33:49.849Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NBtRhSvJNwwXLHpgPT8J" version="12.4.8" type="github" pages="6">
+<mxfile modified="2020-01-03T01:37:02.284Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="6M4CS4IpxEwSxr4Q-nRe" version="12.4.8" type="github" pages="6">
   <diagram id="f766WmHzztAEVAHGolFx" name="Page-1">
     <mxGraphModel dx="2873" dy="1296" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1100,6 +1100,12 @@
           <mxGeometry x="-597" y="857" width="288" height="234" as="geometry"/>
         </mxCell>
         <mxCell id="Nbfqu5bM2LD2DpUpRzRC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="BgZBqPnPrOkgnieKWobT-1" source="Nbfqu5bM2LD2DpUpRzRC-0" target="Nbfqu5bM2LD2DpUpRzRC-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Nbfqu5bM2LD2DpUpRzRC-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt ; line-height: 150% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;AmsChainExProperties&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ id: Integer&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ name: String&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ input_type:String&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ input_list: Boolean&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ default_value: Date&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;+ note: String&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;+ is_deleted:Byte&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=10.5;fontFamily=Times new Roman;html=1;strokeWidth=1;" vertex="1" parent="BgZBqPnPrOkgnieKWobT-1">
+          <mxGeometry x="-597" y="1214" width="288" height="191" as="geometry"/>
+        </mxCell>
+        <mxCell id="Nbfqu5bM2LD2DpUpRzRC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="BgZBqPnPrOkgnieKWobT-1" source="Nbfqu5bM2LD2DpUpRzRC-2" target="Nbfqu5bM2LD2DpUpRzRC-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
